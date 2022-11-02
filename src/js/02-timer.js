@@ -38,7 +38,6 @@ class MyTimer {
       return Promise.reject('check time');
     }
     this.time = this.futureDate.getTime() - Date.now();
-    this.setTime();
 
     if (!this.isActive) {
       this.isActive = true;

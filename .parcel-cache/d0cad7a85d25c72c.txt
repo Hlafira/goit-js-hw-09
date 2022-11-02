@@ -86,7 +86,7 @@
 98D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\caniuse-lite\data\features\clipboard.js133116005319707130 0
 89D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\type-fest\source\asyncify.d.ts133116005297114355 0
 85D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\source-map\source-map.d.ts133116005305056467 0
-50D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\dist133117986549808509 1
+50D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\dist133118644858391562 1
 84D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\flatpickr\dist\l10n\zh.js133116898057294962 0
 108D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133116005299777217 0
 98D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\@parcel\transformer-babel\src\config.js133116005300854353 0
@@ -240,7 +240,7 @@
 88D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\sk.js133116898054851492 0
 68D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\lmdb\dist133116005321292724 1
 73D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\src\js\01-color-switcher.js133117987134461419 0
-64D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\src\js\02-timer.js133117979747415315 0
+64D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\src\js\02-timer.js133118644854372305 0
 70D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\htmlparser2133116005303058449 1
 67D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\src\js\03-promises.js133117982730757342 0
 107D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\@swc\helpers\lib\_is_native_reflect_construct.js133116005313282947 0
@@ -1206,7 +1206,7 @@
 92D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\@swc\helpers\src\_create_class.js133116005320355250 0
 84D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\flatpickr\dist\l10n\sk.js133116898054951232 0
 102D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\@parcel\workers\test\integration\workerfarm133116005309873584 1
-75D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\dist\02-timer.f9388f03.js.map133117986440248797 0
+75D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\dist\02-timer.f9388f03.js.map133118644857663496 0
 94D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\caniuse-lite\data\regions\alt-af.js133116005305086407 0
 90D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\caniuse-lite\data\regions\MD.js133116005329341202 0
 76D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\svgo\lib\style.js133116005315777468 0
@@ -3626,7 +3626,7 @@
 90D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\caniuse-lite\data\regions\SI.js133116005333861332 0
 112D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\caniuse-lite\data\features\font-variant-alternates.js133116005326239485 0
 90D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\caniuse-lite\data\regions\SL.js133116005333903248 0
-71D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\dist\02-timer.f9388f03.js133117986439919657 0
+71D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\dist\02-timer.f9388f03.js133118644857394213 0
 90D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\caniuse-lite\data\regions\SR.js133116005334067920 0
 90D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\caniuse-lite\data\regions\SV.js133116005334247716 0
 90D:\goit\homeworks\goit-js-hw-09\goit-js-hw-09\node_modules\caniuse-lite\data\regions\SZ.js133116005334459725 0
